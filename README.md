@@ -8,7 +8,7 @@ Our current product matrix primarily consists of two parts: GamerBoom Client and
 This repository contains a set of Solidity smart contracts and an interaction diagram that explains the relationships between them. The diagram illustrates the order of contract deployment, the interactions between the different contracts, and the internal functions of each contract.
 
 You can view the UML diagram below:
-![Contract Interaction Diagram](./Contracts Interaction Flow.drawio.svg)
+![Contract Interaction Diagram](Contracts Interaction Flow.drawio.svg)
 
 Please note that the diagram is a simplified representation of the contract interactions and may not include all the details. For a complete understanding, please review the Solidity source code files in the contracts directory.
 
