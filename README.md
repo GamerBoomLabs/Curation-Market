@@ -1,13 +1,12 @@
 # GamerBoom: The Web3 Portal for Onboarding Billions of Gamers
 GamerBoom is a Web3 gaming portal built on popular Web2 games like League of Legends. It helps gamers tokenize their intrinsic value, offering a seamless gaming experience with diverse Web3 features, including decentralization, trustlessness, crypto incentives, etc.
- Website: https://www.gamerboom.org/
 
-Official Links:
-🌐 Website: https://www.gamerboom.org/
-🎉 Discord: http://discord.gg/gamerboom
-🐦 Twitter: https://twitter.com/Gamerboom_
-📹 Official Trailer: https://www.youtube.com/watch?v=xD7w2uecug8
-📚 Official Wiki: https://gamerboom.gitbook.io/gamerboom-docs-v1.0
+Official Links:  
+🌐 Website: https://www.gamerboom.org/  
+🎉 Discord: http://discord.gg/gamerboom  
+🐦 Twitter: https://twitter.com/Gamerboom_  
+📹 Official Trailer: https://www.youtube.com/watch?v=xD7w2uecug8  
+📚 Official Wiki: https://gamerboom.gitbook.io/gamerboom-docs-v1.0  
 
 # Coinbase Smart Wallet Integration
 While we have developed a low-barrier overlay app based on traditional Web2 games to seamlessly onboard users, we still need a Web3 wallet solution with an even lower barrier to entry. This will enable Web2 users to easily and quickly create Web3 accounts. Therefore, we have decided to integrate Coinbase Smart Wallet to achieve this goal.
