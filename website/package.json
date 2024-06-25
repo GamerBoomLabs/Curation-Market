@@ -1,0 +1,21 @@
+{
+  "name": "website",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "dev:staging": "vite --mode=staging",
+    "build": "vite build",
+    "build:staging": "vite build --mode=staging",
+    "preview": "vite preview",
+    "clean": "rm -rf node_modules"
+  },
+  "devDependencies": {
+    "vite": "^5.1.4"
+  },
+  "dependencies": {
+    "@coinbase/wallet-sdk": "^4.0.4",
+    "gsap": "^3.12.4"
+  }
+}

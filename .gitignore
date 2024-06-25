@@ -11,3 +11,10 @@ cache
 artifacts
 deployedAddresses.json
 
+website/node_modules
+website/dist
+website/.env.production
+webiste/src/main.js
+website/.env.staging
+website/.gitignore
+website/src/main.js
