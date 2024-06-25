@@ -1,4 +1,4 @@
-# GamerBoom: The Web3 Portal for Onboarding Billions of Gamers
+# GamerBoom: The Web3 Portal for Onboarding Billions of Real Gamers
 GamerBoom is a Web3 gaming portal built on popular Web2 games like League of Legends. It helps gamers tokenize their intrinsic value, offering a seamless gaming experience with diverse Web3 features, including decentralization, trustlessness, crypto incentives, etc.
 
 Official Links:  
