@@ -6,7 +6,7 @@ import "@openzeppelin/contracts/access/Ownable.sol";
 import "@openzeppelin/contracts/security/Pausable.sol";
 
 contract JOYToken is ERC20, Ownable, Pausable {
-
+// JoyToken is just a test token.
     bool private mintingEnabled = false;
     bool private halvingActivated = false;
     uint8 public epochsSinceLastHalving = 0;
